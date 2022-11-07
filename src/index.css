@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*dissapear scrollbar*/
+::-webkit-scrollbar{
+    width: 0px;
+}
+/* 
+::-webkit-scrollbar-thumb{
+    background: #000;
+    border-radius: 18px;
+} */
